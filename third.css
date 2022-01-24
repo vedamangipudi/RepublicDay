@@ -1,0 +1,23 @@
+#mainbody
+{
+    background-image:url(back.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+#div1 {
+    padding-top: 200px;
+}
+
+#startbody {
+    background-image:url(startb.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+#create {
+    font-size: xx-large;
+    font-weight: 300;
+    font-style: normal;
+    padding-top: 50px;
+}
